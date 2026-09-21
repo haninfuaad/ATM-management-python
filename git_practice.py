@@ -14,3 +14,4 @@ class Rect(Polygon):
         print("4")
 t1=Triangle()
 t1.sides()
+print("hell")
